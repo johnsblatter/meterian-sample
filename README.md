@@ -7,4 +7,6 @@ Examples of Meterian analysis of known projects
 | Deeplearning4J | [![Security Status](https://www.meterian.io/badge/gh/johnsblatter/deeplearning4j/security)](https://www.meterian.io/report/gh/johnsblatter/deeplearning4j) | [![Defect Status](https://www.meterian.io/badge/gh/johnsblatter/deeplearning4j/defect)](https://www.meterian.io/report/gh/johnsblatter/deeplearning4j) |
 | Eclipse vert.x | [![security status](https://qa.meterian.io/badge/gh/eclipse/vert.x/security)](https://qa.meterian.io/report/gh/eclipse/vert.x) | [![defect status](https://qa.meterian.io/badge/gh/eclipse/vert.x/defect)](https://qa.meterian.io/report/gh/eclipse/vert.x) |
 | MyBatis-3 | [![security status](https://qa.meterian.io/badge/gh/mybatis/mybatis-3/security)](https://qa.meterian.io/report/gh/mybatis/mybatis-3) | [![defect status](https://qa.meterian.io/badge/gh/mybatis/mybatis-3/defect)](https://qa.meterian.io/report/gh/mybatis/mybatis-3) |
+| Alibaba Fastjson | [![security status](https://qa.meterian.io/badge/gh/alibaba/fastjson/security)](https://qa.meterian.io/report/gh/alibaba/fastjson) | [![defect status](https://qa.meterian.io/badge/gh/alibaba/fastjson/defect)](https://qa.meterian.io/report/gh/alibaba/fastjson) |
+
 
