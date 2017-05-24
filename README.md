@@ -8,6 +8,9 @@ Examples of Meterian analysis of known projects (WWW)
 | Eclipse vert.x | [![security status](https://www.meterian.io/badge/gh/eclipse/vert.x/security)](https://www.meterian.io/report/gh/eclipse/vert.x) | [![defect status](https://www.meterian.io/badge/gh/eclipse/vert.x/stability)](https://www.meterian.io/report/gh/eclipse/vert.x) |
 | MyBatis-3 | [![security status](https://www.meterian.io/badge/gh/mybatis/mybatis-3/security)](https://www.meterian.io/report/gh/mybatis/mybatis-3) | [![defect status](https://www.meterian.io/badge/gh/mybatis/mybatis-3/stability)](https://www.meterian.io/report/gh/mybatis/mybatis-3) |
 | Alibaba Fastjson | [![security status](https://www.meterian.io/badge/gh/alibaba/fastjson/security)](https://www.meterian.io/report/gh/alibaba/fastjson) | [![defect status](https://www.meterian.io/badge/gh/alibaba/fastjson/stability)](https://www.meterian.io/report/gh/alibaba/fastjson) |
+| Owner | [![security status](https://www.meterian.io/badge/gh/lviggiano/owner/security)](https://www.meterian.io/report/gh/lviggiano/owner) |
+[![defect status](https://www.meterian.io/badge/gh/lviggiano/owner/defect)](https://www.meterian.io/report/gh/lviggiano/owner) |
+
 
 
 Examples of Meterian analysis of known projects (QA)
@@ -19,4 +22,5 @@ Examples of Meterian analysis of known projects (QA)
 | Eclipse vert.x | [![security status](https://qa.meterian.io/badge/gh/eclipse/vert.x/security)](https://qa.meterian.io/report/gh/eclipse/vert.x) | [![defect status](https://qa.meterian.io/badge/gh/eclipse/vert.x/stability)](https://qa.meterian.io/report/gh/eclipse/vert.x) |
 | MyBatis-3 | [![security status](https://qa.meterian.io/badge/gh/mybatis/mybatis-3/security)](https://qa.meterian.io/report/gh/mybatis/mybatis-3) | [![defect status](https://qa.meterian.io/badge/gh/mybatis/mybatis-3/stability)](https://qa.meterian.io/report/gh/mybatis/mybatis-3) |
 | Alibaba Fastjson | [![security status](https://qa.meterian.io/badge/gh/alibaba/fastjson/security)](https://qa.meterian.io/report/gh/alibaba/fastjson) | [![defect status](https://qa.meterian.io/badge/gh/alibaba/fastjson/stability)](https://qa.meterian.io/report/gh/alibaba/fastjson) |
-
+| Owner | [![security status](https://qa.meterian.io/badge/gh/lviggiano/owner/security)](https://qa.meterian.io/report/gh/lviggiano/owner) |
+[![defect status](https://qa.meterian.io/badge/gh/lviggiano/owner/defect)](https://qa.meterian.io/report/gh/lviggiano/owner) |
