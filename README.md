@@ -12,9 +12,7 @@ Examples of Meterian analysis of known projects (WWW)
 | Teradata Kylo | [![security status](https://www.meterian.io/badge/gh/teradata/kylo/security)](https://www.meterian.io/report/gh/teradata/kylo) | [![defect status](https://www.meterian.io/badge/gh/teradata/kylo/stability)](https://www.meterian.io/report/gh/teradata/kylo) |
 | Apache Nifi | [![security status](https://www.meterian.io/badge/gh/apache/nifi/security)](https://www.meterian.io/report/gh/apache/nifi) | [![defect status](https://www.meterian.io/badge/gh/apache/nifi/stability)](https://www.meterian.io/report/gh/apache/nifi) |
 | Spring Boot | [![security status](https://www.meterian.io/badge/gh/spring-projects/spring-boot/security)](https://www.meterian.io/report/gh/spring-projects/spring-boot) | [![defect status](https://www.meterian.io/badge/gh/spring-projects/spring-boot/stability)](https://www.meterian.io/report/gh/spring-projects/spring-boot) |
-
-
-
+| Presto DB | [![security status](https://www.meterian.io/badge/gh/prestodb/presto/security)](https://www.meterian.io/report/gh/prestodb/presto) | [![defect status](https://www.meterian.io/badge/gh/prestodb/presto/stability)](https://www.meterian.io/report/gh/prestodb/presto) |
 
 
 Examples of Meterian analysis of known projects (QA)
@@ -30,3 +28,6 @@ Examples of Meterian analysis of known projects (QA)
 | Teradata Kylo | [![security status](https://qa.meterian.io/badge/gh/teradata/kylo/security)](https://qa.meterian.io/report/gh/teradata/kylo) | [![defect status](https://qa.meterian.io/badge/gh/teradata/kylo/stability)](https://qa.meterian.io/report/gh/teradata/kylo) |
 | Apache Nifi | [![security status](https://qa.meterian.io/badge/gh/apache/nifi/security)](https://qa.meterian.io/report/gh/apache/nifi) | [![defect status](https://qa.meterian.io/badge/gh/apache/nifi/stability)](https://qa.meterian.io/report/gh/apache/nifi) |
 | Spring Boot | [![security status](https://qa.meterian.io/badge/gh/spring-projects/spring-boot/security)](https://qa.meterian.io/report/gh/spring-projects/spring-boot) | [![defect status](https://qa.meterian.io/badge/gh/spring-projects/spring-boot/stability)](https://qa.meterian.io/report/gh/spring-projects/spring-boot) |
+| Presto DB | [![security status](https://qa.meterian.io/badge/gh/prestodb/presto/security)](https://qa.meterian.io/report/gh/prestodb/presto) | [![defect status](https://qa.meterian.io/badge/gh/prestodb/presto/stability)](https://qa.meterian.io/report/gh/prestodb/presto) |
+
+
