@@ -13,6 +13,9 @@ Examples of Meterian analysis of known projects (WWW)
 | Apache Nifi | [![security status](https://www.meterian.io/badge/gh/apache/nifi/security)](https://www.meterian.io/report/gh/apache/nifi) | [![defect status](https://www.meterian.io/badge/gh/apache/nifi/stability)](https://www.meterian.io/report/gh/apache/nifi) |
 | Spring Boot | [![security status](https://www.meterian.io/badge/gh/spring-projects/spring-boot/security)](https://www.meterian.io/report/gh/spring-projects/spring-boot) | [![defect status](https://www.meterian.io/badge/gh/spring-projects/spring-boot/stability)](https://www.meterian.io/report/gh/spring-projects/spring-boot) |
 | Presto DB | [![security status](https://www.meterian.io/badge/gh/prestodb/presto/security)](https://www.meterian.io/report/gh/prestodb/presto) | [![defect status](https://www.meterian.io/badge/gh/prestodb/presto/stability)](https://www.meterian.io/report/gh/prestodb/presto) |
+| Apache Struts | [![security status](https://www.meterian.io/badge/gh/apache/struts/security)](https://www.meterian.io/report/gh/apache/struts) |[![stability status](https://www.meterian.io/badge/gh/apache/struts/stability)](https://www.meterian.io/report/gh/apache/struts)|
+
+
 
 
 Examples of Meterian analysis of known projects (QA)
