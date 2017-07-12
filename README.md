@@ -25,6 +25,8 @@ Examples of Meterian analysis of known projects
 | (QA)             | [![security status](https://qa.meterian.io/badge/gh/prestodb/presto/security)](https://qa.meterian.io/report/gh/prestodb/presto) | [![defect status](https://qa.meterian.io/badge/gh/prestodb/presto/stability)](https://qa.meterian.io/report/gh/prestodb/presto) |
 | Apache Struts    | [![security status](https://www.meterian.io/badge/gh/apache/struts/security)](https://www.meterian.io/report/gh/apache/struts) |[![stability status](https://www.meterian.io/badge/gh/apache/struts/stability)](https://www.meterian.io/report/gh/apache/struts)|
 | (QA)             | [![security status](https://qa.meterian.io/badge/gh/apache/struts/security)](https://qa.meterian.io/report/gh/apache/struts) |[![stability status](https://qa.meterian.io/badge/gh/apache/struts/stability)](https://qa.meterian.io/report/gh/apache/struts)|
+| Google Guava    | [![security status](https://www.meterian.com/badge/gh/google/guava/security)](https://www.meterian.com/report/gh/google/guava) | [![defect status](https://www.meterian.com/badge/gh/google/guava/stability)](https://www.meterian.com/report/gh/google/guava) |
+| (QA)             | [![security status](https://qa.meterian.com/badge/gh/google/guava/security)](https://qa.meterian.com/report/gh/google/guava) | [![defect status](https://qa.meterian.com/badge/gh/google/guava/stability)](https://qa.meterian.com/report/gh/google/guava) |
 
 
 
