@@ -25,6 +25,7 @@ Examples of Meterian analysis of known projects
 | (QA)             | [![security status](https://qa.meterian.io/badge/gh/apache/struts/security)](https://qa.meterian.io/report/gh/apache/struts) |[![stability status](https://qa.meterian.io/badge/gh/apache/struts/stability)](https://qa.meterian.io/report/gh/apache/struts)|
 | Google Guava    | [![security status](https://www.meterian.com/badge/gh/google/guava/security)](https://www.meterian.com/report/gh/google/guava) | [![defect status](https://www.meterian.com/badge/gh/google/guava/stability)](https://www.meterian.com/report/gh/google/guava) |
 | (QA)             | [![security status](https://qa.meterian.com/badge/gh/google/guava/security)](https://qa.meterian.com/report/gh/google/guava) | [![defect status](https://qa.meterian.com/badge/gh/google/guava/stability)](https://qa.meterian.com/report/gh/google/guava) |
-
+| Jackson Core     | [![security status](https://www.meterian.com/badge/gh/FasterXML/jackson-core/security)](https://www.meterian.com/report/gh/FasterXML/jackson-core) | [![defect status](https://www.meterian.com/badge/gh/FasterXML/jackson-core/stability)](https://www.meterian.com/report/gh/FasterXML/jackson-core) |
+| (QA)             | [![security status](https://qa.meterian.com/badge/gh/FasterXML/jackson-core/security)](https://qa.meterian.com/report/gh/FasterXML/jackson-core) | [![defect status](https://qa.meterian.com/badge/gh/FasterXML/jackson-core/stability)](https://qa.meterian.com/report/gh/FasterXML/jackson-core) |
 
 
