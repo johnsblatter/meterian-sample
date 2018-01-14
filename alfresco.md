@@ -2,10 +2,12 @@
 Scanning of opensource alfresco/activity projects
 
 | Project            | Security      | Stability  |
+|:------------------ | ------------- | ---------- |
 | Activity                              | [![security status](https://www.meterian.com/badge/gh/Activiti/Activiti/security)](https://www.meterian.com/report/gh/Activiti/Activiti) | [![defect status](https://www.meterian.com/badge/gh/Activiti/Activiti/stability)](https://www.meterian.com/report/gh/Activiti/Activiti) |
 | Activiti cloud audit service          | [![security status](https://www.meterian.com/badge/gh/Activiti/activiti-cloud-audit-service/security)](https://www.meterian.com/report/gh/Activiti/activiti-cloud-audit-service) | [![defect status](https://www.meterian.com/badge/gh/Activiti/activiti-cloud-audit-service/stability)](https://www.meterian.com/report/gh/Activiti/activiti-cloud-audit-service) |
 | Activiti cloud query service          | [![security status](https://www.meterian.com/badge/gh/Activiti/activiti-cloud-query-service/security)](https://www.meterian.com/report/gh/Activiti/activiti-cloud-query-service) | [![defect status](https://www.meterian.com/badge/gh/Activiti/activiti-cloud-query-service/stability)](https://www.meterian.com/report/gh/Activiti/activiti-cloud-query-service) |
 | Activiti cloud runtime bundle service | [![security status](https://www.meterian.com/badge/gh/Activiti/activiti-cloud-runtime-bundle-service/security)](https://www.meterian.com/report/gh/Activiti/activiti-cloud-runtime-bundle-service) | [![defect status](https://www.meterian.com/badge/gh/Activiti/activiti-cloud-runtime-bundle-service/stability)](https://www.meterian.com/report/gh/Activiti/activiti-cloud-runtime-bundle-service) |
+
 
 # alfresco/core
 Scanning of opensource alfresco/core projects
