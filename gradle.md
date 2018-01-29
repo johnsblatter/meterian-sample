@@ -13,9 +13,7 @@ Examples of Meterian analysis of known projects (built with gradle)
 | (QA)    | [![security status](https://qa.meterian.com/badge/gh/ReactiveX/RxJava/security?branch=2.x)](https://qa.meterian.com/report/gh/ReactiveX/RxJava?branch=2.x) | [![defect status](https://qa.meterian.com/badge/gh/ReactiveX/RxJava/stability?branch=2.x)](https://qa.meterian.com/report/gh/ReactiveX/RxJava?branch=2.x) |
 | Spring Framework (3.2)| [![security status](https://www.meterian.com/badge/gh/spring-projects/spring-framework/security)](https://www.meterian.com/report/gh/spring-projects/spring-framework) | [![defect status](https://www.meterian.com/badge/gh/spring-projects/spring-framework/stability)](https://www.meterian.com/report/gh/spring-projects/spring-framework) |
 | (QA)                  | [![security status](https://qa.meterian.com/badge/gh/spring-projects/spring-framework/security)](https://qa.meterian.com/report/gh/spring-projects/spring-framework) | [![defect status](https://qa.meterian.com/badge/gh/spring-projects/spring-framework/stability)](https://qa.meterian.com/report/gh/spring-projects/spring-framework) |
-| Elastic Search (v5.6.6) | 
-[![security status](https://www.meterian.com/badge/gh/elastic/elasticsearch/security?branch=v5.6.6)](https://www.meterian.com/report/gh/elastic/elasticsearch?branch=v5.6.6) | 
+| Elastic Search (v5.6.6) | [![security status](https://www.meterian.com/badge/gh/elastic/elasticsearch/security?branch=v5.6.6)](https://www.meterian.com/report/gh/elastic/elasticsearch?branch=v5.6.6) | 
 [![defect status](https://www.meterian.com/badge/gh/elastic/elasticsearch/stability?branch=v5.6.6)](https://www.meterian.com/report/gh/elastic/elasticsearch?branch=v5.6.6) |
-| (QA)    | 
-[![security status](https://qa.meterian.com/badge/gh/elastic/elasticsearch/security?branch=v5.6.6)](https://qa.meterian.com/report/gh/elastic/elasticsearch?branch=v5.6.6) | 
+| (QA)    | [![security status](https://qa.meterian.com/badge/gh/elastic/elasticsearch/security?branch=v5.6.6)](https://qa.meterian.com/report/gh/elastic/elasticsearch?branch=v5.6.6) | 
 [![defect status](https://qa.meterian.com/badge/gh/elastic/elasticsearch/stability?branch=v5.6.6)](https://qa.meterian.com/report/gh/elastic/elasticsearch?branch=v5.6.6) |
