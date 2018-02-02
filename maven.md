@@ -1,5 +1,5 @@
 # meterian-sample
-Examples of Meterian analysis of known projects 
+Examples of Meterian analysis of known projects. for WWW and QA
 
 | Project          | Security      | Stability  |
 |:---------------- | ------------- | ---------- |
