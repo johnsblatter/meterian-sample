@@ -29,5 +29,8 @@ Examples of Meterian analysis of known projects. for WWW and QA
 | (QA)             | [![security status](https://qa.meterian.com/badge/gh/orientechnologies/orientdb/security)](https://qa.meterian.com/report/gh/orientechnologies/orientdb) | [![defect status](https://qa.meterian.com/badge/gh/orientechnologies/orientdb/stability)](https://qa.meterian.com/report/gh/orientechnologies/orientdb) |
 | SParkJava | [![security status](https://www.meterian.com/badge/gh/perwendel/spark/security)](https://www.meterian.com/report/gh/perwendel/spark) | [![defect status](https://www.meterian.com/badge/gh/perwendel/spark/stability)](https://www.meterian.com/report/gh/perwendel/spark) |
 | (QA)    | [![security status](https://qa.meterian.com/badge/gh/perwendel/spark/security)](https://qa.meterian.com/report/gh/perwendel/spark) | [![defect status](https://qa.meterian.com/badge/gh/perwendel/spark/stability)](https://qa.meterian.com/report/gh/perwendel/spark) |
+| Apache Struts | [![security status](https://www.meterian.com/badge/gh/apache/struts/security)](https://www.meterian.com/report/gh/apache/struts) | [![defect status](https://www.meterian.com/badge/gh/apache/struts/stability)](https://www.meterian.com/report/gh/apache/struts) |
+| (QA)    | [![security status](https://qa.meterian.com/badge/gh/apache/struts/security)](https://qa.meterian.com/report/gh/apache/struts) | [![defect status](https://qa.meterian.com/badge/gh/apache/struts/stability)](https://qa.meterian.com/report/gh/apache/struts) |
+
 
 
