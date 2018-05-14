@@ -1,0 +1,4 @@
+| Project            | Security      | Stability  |
+|:------------------ |	 ------------- | ---------- |
+| Sysdist            | [![security status](https://www.meterian.com/badge/gh/bbossola/sysdist/security?branch=master)](https://www.meterian.com/report/gh/bbossola/sysdist?branch=master) | [![defect status](https://www.meterian.com/badge/gh/bbossola/sysdist/stability?branch=master)](https://www.meterian.com/report/gh/bbossola/sysdist?branch=master) |
+| Sysdist (QA)       | [![security status](https://qa.meterian.com/badge/gh/bbossola/sysdist/security?branch=master)](https://qa.meterian.com/report/gh/bbossola/sysdist?branch=master) | [![defect status](https://qa.meterian.com/badge/gh/bbossola/sysdist/stability?branch=master)](https://qa.meterian.com/report/gh/bbossola/sysdist?branch=master) |
